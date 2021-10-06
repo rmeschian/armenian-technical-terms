@@ -61,7 +61,7 @@
 | ------ | ------ | ------ |
 | system |  համակարգ | |
 | computer |  համակարգիչ |
-| concatenation | կապում/միացում | “oo” + “bar” = “foobar” |
+| concatenation | կապում/միացում | "Hello" + " World" |
 | if |  եթե | if(true) { } |
 | variable |  փոփոխական | let x; |
 | constant | հաստատուն | const |
