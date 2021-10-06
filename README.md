@@ -52,8 +52,8 @@
 # Operations
 | English | Armenian | Example |
 | ------ | ------ | ------ |
-| increment | մեծացում, ավելացում |
-| decrement | փոքրացում, պակասեցում |
+| increment | մեծացում, ավելացում | i++ |
+| decrement | փոքրացում, պակասեցում | i-- |
 
 
 # Other
