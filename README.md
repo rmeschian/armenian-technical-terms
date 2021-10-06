@@ -63,8 +63,8 @@
 | computer |  համակարգիչ |
 | concatenation | կապում/միացում | "Hello" + " World" |
 | if |  եթե | if(true) { } |
-| variable |  փոփոխական | let x; |
-| constant | հաստատուն | const |
+| variable |  փոփոխական | let x = 5; |
+| constant | հաստատուն | const x = 5; |
 | assign |  նշանակել | x = 3; |
 | arguments/parameters | արգումենտ |
 | modulo | բաժանում մնացորդով | |
