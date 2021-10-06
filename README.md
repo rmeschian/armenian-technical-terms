@@ -37,7 +37,7 @@
 | boolean |  բուլյան | true |
 | character |  գրանշան | "a" |
 | array | զանգված | [] |
-| function | ֆունկցիա | alert("hi") |
+| function | ֆունկցիա | function foo() { return 1; } |
 
 
 # Characters
