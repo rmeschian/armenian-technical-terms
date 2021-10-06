@@ -3,7 +3,7 @@
 
 # Mathematical Operators
 
-| English | Armenian | Code |
+| English | Armenian | Example |
 | ------ | ------ | ------ |
 | addition | գումարում -|  +     |
 | subtraction |  հանում | - |
@@ -12,7 +12,7 @@
 
 
 # Boolean Operators
-| English | Armenian | Code |
+| English | Armenian | Example |
 | ------ | ------ | ------ |
 | and |  և | && |
 | or | կամ | \|\| |
@@ -20,7 +20,7 @@
 
 
 # Comparison Operators
-| English | Armenian | Code |
+| English | Armenian | Example |
 | ------ | ------ | ------ |
 | equal |  հավասար | === |
 | not equal |  հավասար չէ | !== |
@@ -30,7 +30,7 @@
 | less than or equal to |  փոքր կամ հավասար է դրան | <= |
 
 # Types
-| English | Armenian | Code |
+| English | Armenian | Example |
 | ------ | ------ | ------ |
 | number |  թիվ | 3 |
 | string |  սիմվոլային տող | "Hello World" |
@@ -41,7 +41,7 @@
 
 
 # Characters
-| English | Armenian | Code |
+| English | Armenian | Example |
 | ------ | ------ | ------ |
 | semicolon |  կետ֊ստորակետ | ; |
 | comma | ստորակետ | , |
@@ -50,14 +50,14 @@
 
 
 # Operations
-| English | Armenian | Code |
+| English | Armenian | Example |
 | ------ | ------ | ------ |
 | increment | մեծացում, ավելացում |
 | decrement | փոքրացում, պակասեցում |
 
 
 # Other
-| English | Armenian | Code |
+| English | Armenian | Example |
 | ------ | ------ | ------ |
 | system |  համակարգ | |
 | computer |  համակարգիչ |
@@ -73,6 +73,6 @@
 | next |  հաջորդը |
 | paste |  սոսնձել/տեղադրել |
 | copy |  պատճենել |
-| code editor |  կոդի խմբագիր | jsfiddle |
+| code editor |  կոդի խմբագիր | Visual Studio Code |
 | execute |  կատարել |
 | factorial | ֆակտորիալ  | |
