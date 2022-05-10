@@ -67,7 +67,7 @@
 | constant | հաստատուն | const x = 5; |
 | assign |  նշանակել | x = 3; |
 | arguments/parameters | արգումենտ |
-| modulo | բաժանում մնացորդով | |
+| modulo | բաժանում մնացորդով | % |
 | alert |  ազդարարել | alert("hi"); |
 | prompt |  հուշում | let x = prompt("hi"); |
 | next |  հաջորդը |
